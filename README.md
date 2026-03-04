@@ -1,1 +1,1 @@
-I'm making a personal website. 
+Learning about git 
